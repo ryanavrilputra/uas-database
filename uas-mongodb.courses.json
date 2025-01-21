@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "678e3cfa0e54eeb63f0cb491"
+  },
+  "title": "Advanced Python Programming",
+  "description": "Master advanced Python techniques including data analysis, machine learning, and web development",
+  "price": "750000",
+  "category_id": "678e3c7a0e54eeb63f0cb48f",
+  "instructor_id": "678e3c950e54eeb63f0cb490",
+  "updated_at": {
+    "$date": "2025-01-20T12:11:01.610Z"
+  },
+  "created_at": {
+    "$date": "2025-01-20T12:09:30.235Z"
+  }
+}]
